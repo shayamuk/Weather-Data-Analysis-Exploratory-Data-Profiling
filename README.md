@@ -6,7 +6,7 @@ This project involved a deep-dive analysis of an hourly weather dataset containi
 
 # 2. Tools and Technology Used
 
-anguage: Python 3.10+
+Language: Python 3.10+
 
 Libraries: Pandas (Data Wrangling)
 
